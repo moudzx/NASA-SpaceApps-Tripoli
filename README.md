@@ -10,4 +10,4 @@ Official website for the NASA Space Apps Challenge Tripoli chapter, the first ti
 ## Links
 
 - [NASA Space Apps Challenge (Tripoli)](https://spaceapps-tripoli.pages.dev/)
-- [NASA Space Apps Challenge (Global)](https://www.spaceappschallenge.org/)
+- [NASA Space Apps Challenge (Global)](https://www.spaceappschallenge.org/2026/local-events/tripoli-lebanon/)
